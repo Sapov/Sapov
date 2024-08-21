@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Sapov&label=PROFILE+VIEWS)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sapov&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sapov&theme=solarized_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sapov&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sapov&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sapov&theme=2077)
+![](https://komarev.com/ghpvc/?username=Sapov&label=PROFILE+VIEWS)
+
