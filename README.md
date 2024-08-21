@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 **Фреймворк, расширения и библиотеки:**
 
 [![Django](https://img.shields.io/badge/Django-v5.1.0-blue?logo=Django)](https://www.djangoproject.com/)
+[![DRF](https://img.shields.io/badge/DRF-v3.15-blue?logo=DRF)](https://www.django-rest-framework.org/)
+
+![Static Badge](https://img.shields.io/badge/Celery-5.4.0-red?style=flat&logoColor=red&labelColor=red&color=blue&link=https%3A%2F%2Fdocs.celeryq.dev%2Fen%2Fstable%2F)
+![Static Badge](https://img.shields.io/badge/Redis-red?style=flat&logoColor=red&labelColor=red&color=blue&link=https%3A%2F%2Fredis.io%2F)
+
+
 
 
 **Базы данных и инструменты работы с БД:**
@@ -37,17 +43,12 @@ Here are some ideas to get you started:
 
 
 
-**CI/CD:**
+**Other**
 
 [![docker_hub](https://img.shields.io/badge/-Docker_Hub-464646?logo=docker)](https://hub.docker.com/)
 [![docker_compose](https://img.shields.io/badge/-Docker%20Compose-464646?logo=docker)](https://docs.docker.com/compose/)
 [![gunicorn](https://img.shields.io/badge/-gunicorn-464646?logo=gunicorn)](https://gunicorn.org/)
 [![Nginx](https://img.shields.io/badge/-NGINX-464646?logo=NGINX)](https://nginx.org/ru/)
-[![Celery](https://img.shields.io/badge/-NGINX-464646?logo=NGINX)](https://nginx.org/ru/)
-![Static Badge](https://img.shields.io/badge/Celery)
-
-
-
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sapov&theme=2077)
