@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![](https://github.com/Sapov/Sapov/blob/master/generated/overview.svg)
+![](https://github.com/Sapov/Sapov/blob/master/generated/languages.svg)
 
 <!--
 **Sapov/Sapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
