@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=Sapov&label=PROFILE+VIEWS)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sapov&theme=solarized_dark)
+
