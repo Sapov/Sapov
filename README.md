@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11-blue?logo=python)](https://www.python.org/)
 
+
 **Фреймворк, расширения и библиотеки:**
 
 [![Django](https://img.shields.io/badge/Django-v5.1.0-blue?logo=Django)](https://www.djangoproject.com/)
@@ -55,4 +56,5 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sapov&theme=2077)
 <br>
 ![](https://komarev.com/ghpvc/?username=Sapov&label=PROFILE+VIEWS)
-![](URL:https://www.codewars.com/users/Sapov/badges/small)
+[![Codewars](https://www.codewars.com/users/Sapov/badges/small)](https://www.codewars.com/users/Sapov/badges)
+
